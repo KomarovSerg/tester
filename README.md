@@ -7,7 +7,7 @@
 <br>
 
 ## Навыки и технологии
-``Jira``, ``qase.io``, ``PostgreSQL``, ``Postman``, ``Fiddler``, ``Swagger``, ``Trello``, ``Notion``,
+``Jira``, ``qase.io``, ``PostgreSQL``, ``Postman``, ``Fiddler``, ``Swagger``, ``Trello``, ``Notion``
 ``SoapUI``, ``Mockoon``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``, ``Miro``
 
 
@@ -23,9 +23,6 @@
 <p> Как решал: краткое описание решения. </p>
 
 > [Ссылка на проект](https://www.notion.so/1-2-c371a29f2ee74bc09cbfe306a1a3173a?pvs=4)
->
-><a "https://www.notion.so/1-2-c371a29f2ee74bc09cbfe306a1a3173a?pvs=4">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код.
 
 <p> Выводы (итоги): </p>
 <ol>
@@ -35,4 +32,4 @@
 
 
 ## Контактная информация
-- Email: <a "komarov.serg.qa@bk.ru" </a> 
+- Email: <a> "komarov.serg.qa@bk.ru" </a> 
