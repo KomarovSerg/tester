@@ -7,9 +7,9 @@
 <br>
 
 ## Навыки и технологии
-``Jira``, ``qase.io``, ``PostgreSQL``, ``Postman``, ``Fiddler``, ``Swagger``, ``Trello``, ``Notion`` 
+``Jira``, ``qase.io``, ``PostgreSQL``, ``Postman``, ``SoapUI`, `Swagger``, ``Charles``, Mockoon``, ``JMeter``, 
 
-``SoapUI``, ``Mockoon``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``, ``Miro`` 
+``Chrome DevTools``, ``Power Shell``, ``Mockoon``, ``Notion``, ``Trello``, ``Git``, ``Miro`` 
 
 
 
