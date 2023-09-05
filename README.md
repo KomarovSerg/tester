@@ -31,3 +31,6 @@
    <li> Итог №2 </li>
 </ol>
 
+
+## Контактная информация
+<p> - Email: komarov.serg.qa@bk.ru </p>
