@@ -33,4 +33,4 @@
 
 
 ## Контактная информация
-- Email: <a> komarov.serg.qa@bk.ru </a> 
+- Email: <komarov.serg.qa@bk.ru> 
