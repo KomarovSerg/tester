@@ -32,4 +32,4 @@
 
 
 ## Контактная информация
-- Email: <a> "komarov.serg.qa@bk.ru" </a> 
+- Email: <a> komarov.serg.qa@bk.ru </a> 
