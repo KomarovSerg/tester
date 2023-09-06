@@ -23,7 +23,7 @@
 
 <p> Как решал: краткое описание решения. </p>
 
-> [Ссылка на проект](https://www.notion.so/1-2-df0a789592a04ba4ace1f1c60ad79ef4?pvs=4)
+> [Ссылка на проект](https://gaudy-toucan-87d.notion.site/1-2-df0a789592a04ba4ace1f1c60ad79ef4?pvs=4)
  
 <p> Выводы (итоги): </p>
 <ol>
