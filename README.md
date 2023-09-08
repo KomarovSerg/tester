@@ -79,4 +79,4 @@
 
 ## Контактная информация
 - Email: <komarov.serg.qa@bk.ru>
-- TG: <t.me/komarov_serg>
+- TG: <https://t.me/komarov_serg>
