@@ -8,10 +8,6 @@
 <br>
 
 ## Навыки и технологии
-``Jira``, ``qase.io``, ``PostgreSQL``, ``Postman``, ``SoapUI`, `Swagger``, ``Charles``, ``Mockoon``,  
-
-``JMeter``, ``Chrome DevTools``, ``Power Shell``, ``Mockoon``, ``Notion``, ``Trello``, ``Git``, ``Miro`` 
-
 <div> 
  <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="44" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/qase.io-purple" title="qase.io" alt="qase.io" width="80" height="30"/>&nbsp;
@@ -31,7 +27,6 @@
  <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="60" height="30"/>&nbsp;
  <img src="https://img.shields.io/badge/Notion-black" title="Notion" alt="Notion" width="80" height="30"/>&nbsp;
 <img src="https://img.shields.io/badge/Power Shell-blue" title="Power Shell" alt="Power Shell" width="100" height="30"/>&nbsp;
-
  
 </div> 
 
