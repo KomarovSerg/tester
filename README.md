@@ -78,5 +78,5 @@
    
 
 ## Контактная информация
-- Email: <komarov.serg.qa@bk.ru>
-- TG: <https://t.me/komarov_serg>
+- [Email](komarov.serg.qa@bk.ru)
+- [Telegram](https://t.me/komarov_serg)
