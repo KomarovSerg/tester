@@ -79,8 +79,3 @@
 
 ## Контактная информация
 [![Telegram Badge](https://img.shields.io/badge/-komarovserg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/komarov_serg)     [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=orange)](mailto:komarov.serg.qa@bk.ru)
-
-
----
-- Email <komarov.serg.qa@bk.ru>
-- [Telegram](https://t.me/komarov_serg)
