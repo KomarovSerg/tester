@@ -78,7 +78,7 @@
    
 
 ## Контактная информация
-- [![Telegram Badge](https://img.shields.io/badge/-komarovserg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/komarov_serg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com) [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- [![Telegram Badge](https://img.shields.io/badge/-komarovserg-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/komarov_serg) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com) [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=black)](mailto:komarov.serg.qa@bk.ru)
 
 
 ---
