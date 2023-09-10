@@ -63,7 +63,7 @@
 - Тестирование API;
 - Приемочное тестирование.
 
-> [Ссылка на проект](https://gaudy-toucan-87d.notion.site/1-2-df0a789592a04ba4ace1f1c60ad79ef4?pvs=4)
+> [Ссылка на проект](https://docs.google.com/document/d/10eJq1R6_KPTi4vBPFnWScVVRbg7hqAbNkGG8_DPDCKQ/edit?usp=sharing) 
  
 > <a href="https://drive.google.com/file/d/1ckOMNXTAV29eul8SkIiUfzAlJgB7Ramy/view?usp=drive_link">Ссылка на тест-план и итоги тестирования</a>
  
