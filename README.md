@@ -42,6 +42,7 @@
 
 ## Сертификаты
 https://stepik.org/cert/2356279
+
 https://stepik.org/cert/2381665
 
 ## Проекты
