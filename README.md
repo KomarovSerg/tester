@@ -45,6 +45,8 @@ https://stepik.org/cert/2356279
 
 https://stepik.org/cert/2381665
 
+https://stepik.org/cert/2450277
+
 ## Проекты
 ## Тест web-приложения для преподавателей от Skyeng
 
